@@ -14,5 +14,10 @@ onMounted(() => {
 </script>
   
 <style scoped>
+    div{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
 </style>
   

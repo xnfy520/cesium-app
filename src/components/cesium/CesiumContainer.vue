@@ -1,6 +1,6 @@
 <template>
     <CesiumHeader/>
-    <!-- <CesiumMain/> -->
+    <CesiumMain/>
     <CesiumToolbar/>
     <CesiumControlbar/>
 </template>
